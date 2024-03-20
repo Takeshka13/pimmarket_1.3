@@ -1,1 +1,2 @@
-# pimmarket_1.3
+# pimmarket ver - 1.3
+by Takeshi_13
